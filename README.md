@@ -1,4 +1,4 @@
-##**5 paradigmas de programação**
+**5 paradigmas de programação**
 
 O **paradigma imperativo** consiste basicamente em instruções exatas que são passadas ao computador na exata sequência em que deverão ser executadas. Ou seja, o programador instrui a máquina sobre como exatamente deve ser feita uma determinada tarefa, assim como um passo a passo. A eficiência e a flexibilidade são uma vantagem desse paradigma.
 
